@@ -2,6 +2,8 @@
 
 Minimal local task manager with immediate atomic persistence and graph visualization.
 
+This application was first targetted at my personal goals. You should carefully read this file if you want to run my work.
+
 ## Features
 
 - No save button. Every mutation writes immediately to disk.
