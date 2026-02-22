@@ -3,9 +3,11 @@
 Minimal local task manager with immediate atomic persistence and graph visualization.
 
 This application was first targetted at my personal goals. You should carefully read this file if you want to run my work.
+
 <img width="2023" height="1188" alt="image" src="https://github.com/user-attachments/assets/69f218b0-8eda-4c87-a83a-56f2126a6999" />
 
 WHY IT IS DIFFERENT
+
 -GOOD FONTS 
 -GRAPH VIEW/VISUALISATION
 -INFINITE SUBTASKS
